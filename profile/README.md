@@ -1,3 +1,7 @@
-# I'm goin' down to South Park gonna have myself a time
+<p align="center">
+  <strong>I'm goin' down to South Park gonna have myself a time</strong>
+</p>
 
-![Cartman plays chess](images/cartman-chess.png "Cartman plays chess")
+<p align="center">
+  <img src="images/cartman-chess.png" alt="Cartman plays chess" width="500" />
+</p>
