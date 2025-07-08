@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="images/cartman-chess.png" alt="Cartman plays chess" width="300" />
+  <img src="images/cartman-chess.png" alt="Cartman plays chess" width="500" />
 </p>
